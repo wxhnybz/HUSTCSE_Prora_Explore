@@ -1,0 +1,4 @@
+/Users/wangzhiyi/Desktop/CKESHE/cmake-build-debug/CMakeFiles/GSM.dir
+/Users/wangzhiyi/Desktop/CKESHE/cmake-build-debug/CMakeFiles/a.dir
+/Users/wangzhiyi/Desktop/CKESHE/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wangzhiyi/Desktop/CKESHE/cmake-build-debug/CMakeFiles/rebuild_cache.dir
