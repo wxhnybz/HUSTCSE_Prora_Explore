@@ -4,4 +4,5 @@ include_directories(${PROJECT_SOURCE_DIR}/include)
 set(CMAKE_CXX_STANDARD 17)
 
 add_executable(GSM main.cpp )
+add_executable(test test.cpp)
 add_executable(a test.cpp)
